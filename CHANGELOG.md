@@ -4,3 +4,4 @@
 - aeroctl: ip rotate --dry-run
 - ops-dashboard: queue depth view
 - ops-dashboard: highlight DLQ
+- aeroctl: core URL from env
