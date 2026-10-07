@@ -6,3 +6,4 @@
 - ops-dashboard: highlight DLQ
 - aeroctl: core URL from env
 - ops-dashboard: IP pool view
+- aeroctl: exit codes
