@@ -7,3 +7,4 @@
 - aeroctl: core URL from env
 - ops-dashboard: IP pool view
 - aeroctl: exit codes
+- ops-dashboard: 5s refresh
